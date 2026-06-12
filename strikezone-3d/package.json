@@ -1,0 +1,21 @@
+{
+  "name": "strikezone-3d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@colyseus/schema": "^4.0.26",
+    "cannon-es": "^0.20.0",
+    "colyseus": "^0.17.10",
+    "colyseus.js": "^0.16.22",
+    "express": "^5.2.1",
+    "three": "^0.184.0",
+    "ws": "^8.21.0"
+  }
+}
